@@ -1,0 +1,13 @@
+L:\WhackMole\WhackMole\bin\Debug\WhackMole.exe.config
+L:\WhackMole\WhackMole\bin\Debug\WhackMole.exe
+L:\WhackMole\WhackMole\bin\Debug\WhackMole.pdb
+L:\WhackMole\WhackMole\obj\Debug\MainWindow.baml
+L:\WhackMole\WhackMole\obj\Debug\MainWindow.g.cs
+L:\WhackMole\WhackMole\obj\Debug\App.g.cs
+L:\WhackMole\WhackMole\obj\Debug\WhackMole_MarkupCompile.cache
+L:\WhackMole\WhackMole\obj\Debug\WhackMole.g.resources
+L:\WhackMole\WhackMole\obj\Debug\WhackMole.Properties.Resources.resources
+L:\WhackMole\WhackMole\obj\Debug\WhackMole.csproj.GenerateResource.Cache
+L:\WhackMole\WhackMole\obj\Debug\WhackMole.exe
+L:\WhackMole\WhackMole\obj\Debug\WhackMole.pdb
+L:\WhackMole\WhackMole\obj\Debug\WhackMole.csprojResolveAssemblyReference.cache
