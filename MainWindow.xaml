@@ -36,6 +36,7 @@
         <TextBox x:Name="scoreBox" HorizontalAlignment="Left" Height="40" Margin="326,110,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="141" RenderTransformOrigin="0.259,-0.084"/>
         <Slider x:Name="slider" HorizontalAlignment="Left" Height="177" VerticalAlignment="Top" Width="35" Margin="472,10,0,0" Orientation="Vertical" Maximum="3" Minimum="1" SmallChange="1" IsSnapToTickEnabled="True"/>
         <MediaElement x:Name="S1" Margin="598,220,-179,1" Source="res/The_Weed.wma" LoadedBehavior="Manual" UnloadedBehavior="Stop"/>
+        <MediaElement x:Name="S2" Margin="703,220,-284,1" Source="res/Beep_Short.wma" LoadedBehavior="Manual" UnloadedBehavior="Stop"/>
 
     </Grid>
 </Window>
