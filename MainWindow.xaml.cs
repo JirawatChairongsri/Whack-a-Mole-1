@@ -31,9 +31,10 @@ namespace WhackMole
 
         System.Windows.Threading.DispatcherTimer dispatcherTimer = new System.Windows.Threading.DispatcherTimer();
         int counter;
+
         private void StartGameButton_Click(object sender, RoutedEventArgs e)
         {
-            S1.Play();
+            
 
             counter = 200;
 
@@ -79,7 +80,12 @@ namespace WhackMole
         {
             dispatcherTimer.Tick += dispatcherTimer_Tick;
             dispatcherTimer.Stop();
-        }       
+        }
+
+        private void Button2_Click(object sender, RoutedEventArgs e)
+        {
+            Application.Current.Shutdown();
+        }
     }
 
     public class WhackMole2
@@ -151,6 +157,7 @@ namespace WhackMole
             buttons[index].Background = Brushes.Red;
             total++;     
         }
+      
     }
 
 }
