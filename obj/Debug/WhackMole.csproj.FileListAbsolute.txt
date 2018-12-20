@@ -26,3 +26,17 @@ C:\Users\Nemes\Source\Repos\Whack-a-Mole-1\obj\Debug\WhackMole.csproj.CoreCompil
 C:\Users\Nemes\Source\Repos\Whack-a-Mole-1\obj\Debug\WhackMole.exe
 C:\Users\Nemes\Source\Repos\Whack-a-Mole-1\obj\Debug\WhackMole.pdb
 C:\Users\Nemes\Source\Repos\Whack-a-Mole-1\obj\Debug\WhackMole_Content.g.cs
+C:\Users\AVI03\Source\Repos\Whack-a-Mole-1\bin\Debug\WhackMole.exe.config
+C:\Users\AVI03\Source\Repos\Whack-a-Mole-1\bin\Debug\WhackMole.exe
+C:\Users\AVI03\Source\Repos\Whack-a-Mole-1\bin\Debug\WhackMole.pdb
+C:\Users\AVI03\Source\Repos\Whack-a-Mole-1\obj\Debug\WhackMole.csprojAssemblyReference.cache
+C:\Users\AVI03\Source\Repos\Whack-a-Mole-1\obj\Debug\MainWindow.baml
+C:\Users\AVI03\Source\Repos\Whack-a-Mole-1\obj\Debug\MainWindow.g.cs
+C:\Users\AVI03\Source\Repos\Whack-a-Mole-1\obj\Debug\App.g.cs
+C:\Users\AVI03\Source\Repos\Whack-a-Mole-1\obj\Debug\WhackMole_MarkupCompile.cache
+C:\Users\AVI03\Source\Repos\Whack-a-Mole-1\obj\Debug\WhackMole.g.resources
+C:\Users\AVI03\Source\Repos\Whack-a-Mole-1\obj\Debug\WhackMole.Properties.Resources.resources
+C:\Users\AVI03\Source\Repos\Whack-a-Mole-1\obj\Debug\WhackMole.csproj.GenerateResource.cache
+C:\Users\AVI03\Source\Repos\Whack-a-Mole-1\obj\Debug\WhackMole.csproj.CoreCompileInputs.cache
+C:\Users\AVI03\Source\Repos\Whack-a-Mole-1\obj\Debug\WhackMole.exe
+C:\Users\AVI03\Source\Repos\Whack-a-Mole-1\obj\Debug\WhackMole.pdb

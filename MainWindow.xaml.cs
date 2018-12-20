@@ -18,6 +18,7 @@ namespace WhackMole
 {
     public partial class MainWindow : Window
     {
+       
         public MainWindow()
         {
             InitializeComponent();
@@ -52,8 +53,8 @@ namespace WhackMole
                 }
                 currentGame = new WhackMole2(buttons, (int)slider.Value);
             }
-            startButton.Visibility = Visibility.Hidden;
-            slider.Visibility = Visibility.Hidden;
+            startButton.Visibility = Visibility;
+            slider.Visibility = Visibility;
             levelBox.Visibility = Visibility.Hidden;
 
         }
@@ -86,6 +87,16 @@ namespace WhackMole
         {
             Application.Current.Shutdown();
         }
+
+        private void Stop_Click(object sender, RoutedEventArgs e)
+        {
+            dispatcherTimer.Stop();
+        }
+
+        private void Button3_Click(object sender, RoutedEventArgs e)
+        {
+            dispatcherTimer.Start();
+        }
     }
 
     public class WhackMole2
@@ -98,6 +109,7 @@ namespace WhackMole
 
         public int Score { get { return score; } }
         public int Total { get { return total; } }
+
         
 
         public WhackMole2(Button[] buttons, int diff)

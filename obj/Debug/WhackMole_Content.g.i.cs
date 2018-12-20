@@ -8,7 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("res/beep_short.wma")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("res/the_weed.wma")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("res/the_weed.wav")]
 
 
