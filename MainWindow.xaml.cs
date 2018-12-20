@@ -23,6 +23,7 @@ namespace WhackMole
             InitializeComponent();
             scoreBox.Visibility = Visibility.Hidden;
             levelBox.Text = "Select Difficulty Level: \nBottom - easy, Middle - medium, Top - hard";
+            
 
         }
 
@@ -32,6 +33,8 @@ namespace WhackMole
         int counter;
         private void StartGameButton_Click(object sender, RoutedEventArgs e)
         {
+            S1.Play();
+
             counter = 200;
 
             dispatcherTimer.Tick += dispatcherTimer_Tick;
@@ -89,6 +92,7 @@ namespace WhackMole
 
         public int Score { get { return score; } }
         public int Total { get { return total; } }
+        
 
         public WhackMole2(Button[] buttons, int diff)
         {
